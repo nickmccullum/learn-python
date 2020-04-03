@@ -1,4 +1,4 @@
-# Welcome to me Introduction to Python course!
+# Welcome to my Introduction to Python course!
 
 You can access the course homepage [here.](https://nickmccullum.com/python-course/)
 
